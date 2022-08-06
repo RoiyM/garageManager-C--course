@@ -1,0 +1,7 @@
+C:\Users\Roiy\Documents\שנה ב\C#\HW\B21 Ex03 NoiCohen 315521799 RoiyMastor 208388835\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csprojAssemblyReference.cache
+C:\Users\Roiy\Documents\שנה ב\C#\HW\B21 Ex03 NoiCohen 315521799 RoiyMastor 208388835\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
+C:\Users\Roiy\Documents\שנה ב\C#\HW\B21 Ex03 NoiCohen 315521799 RoiyMastor 208388835\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll.config
+C:\Users\Roiy\Documents\שנה ב\C#\HW\B21 Ex03 NoiCohen 315521799 RoiyMastor 208388835\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\Roiy\Documents\שנה ב\C#\HW\B21 Ex03 NoiCohen 315521799 RoiyMastor 208388835\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\Roiy\Documents\שנה ב\C#\HW\B21 Ex03 NoiCohen 315521799 RoiyMastor 208388835\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.dll
+C:\Users\Roiy\Documents\שנה ב\C#\HW\B21 Ex03 NoiCohen 315521799 RoiyMastor 208388835\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.pdb
